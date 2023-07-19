@@ -1,7 +1,7 @@
 server:
   port: 8080
   servlet:
-    context-path: /sotrage
+    context-path: /storage
 spring:
   application:
     name: storageManagementSystem
